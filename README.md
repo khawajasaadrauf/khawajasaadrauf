@@ -1,16 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+## Hi there! 👋<br><br>I'm Saad, a passionate and results-driven Manager of Data Architecture with expertise in Data Insights and Data Lake creation. I have a strong background in designing and implementing scalable data solutions that drive business intelligence and enable informed decision-making.<br><br>### What I do:<br><br>- **Data Architecture Management**: As a Manager of Data Architecture, I oversee the design, development, and maintenance of robust data architectures that support data-driven initiatives. I collaborate with cross-functional teams to define data requirements, ensure data integrity, and optimize data models for performance and scalability.<br><br>- **Data Insights and Analytics**: I specialize in extracting meaningful insights from complex data sets. By leveraging advanced analytics techniques, data visualization tools, and statistical methodologies, I transform raw data into actionable business intelligence. I have a deep understanding of data mining, statistical analysis, and machine learning algorithms to uncover patterns, trends, and correlations that drive strategic decision-making.<br><br>- **Data Lake Creation**: I have a proven track record of successfully implementing Data Lake solutions. I design and build scalable Data Lakes using modern technologies like Hadoop, Spark, and cloud-based platforms. I ensure data governance and security practices are in place to guarantee the integrity and privacy of sensitive information.<br><br>- **Team Leadership**: I am a collaborative leader who excels at building and motivating high-performing teams. I foster a culture of innovation, continuous learning, and knowledge sharing. I mentor team members, provide technical guidance, and create opportunities for professional growth.<br><br>### My Skill Set:<br><br>- Data Architecture and Design<br>- Data Modeling<br>- Data Warehousing<br>- ETL/ELT Development<br>- Business Intelligence<br>- Data Visualization<br>- Advanced Analytics<br>- Machine Learning<br>- Big Data Technologies (Hadoop, Spark, etc.)<br>- Cloud Computing (AWS, Azure, GCP)<br>- Data Governance and Security<br>- Team Management and Leadership<br><br>### Let's connect!<br><br>I'm always interested in exploring new opportunities, collaborating on exciting projects, and connecting with fellow data enthusiasts. If you're interested in discussing data architecture, data insights, or Data Lake creation, feel free to reach out. You can connect with me on LinkedIn or drop me an email at Khawajasaad.rauf@gmail.com.<br><br>Looking forward to connecting with you!
 
-<!--
-**khawajasaadrauf/khawajasaadrauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khawajasaad1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-abdul-rauf-75643a75) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/khawajasaad93) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saadabdulrauf) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaadAbdulRauf&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaadAbdulRauf&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAbdulRauf&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaadAbdulRauf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SaadAbdulRauf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
